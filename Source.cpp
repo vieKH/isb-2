@@ -2,7 +2,7 @@
 #include<vector>
 #include<math.h>
 using namespace std;
-
+ 
 vector<bool> generation()
 {
 	vector<bool> check;
